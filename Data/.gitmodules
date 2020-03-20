@@ -1,0 +1,3 @@
+[submodule "Covid-chest-x-ray"]
+	path = Chest-x-ray-covid
+	url = https://github.com/ieee8023/covid-chestxray-dataset/
