@@ -10,6 +10,8 @@ This repo will contain all the information about coronaviruses, script, paper an
    * COVID-19
       * Datas regarding Infected, Recovered and Death covering the whole Italian Nation
       * URL: https://github.com/pcm-dpc/COVID-19
+      
+**NOTE** REMEMBER TO UPDATE THE SUBMODULE DURING THE CLONING OF THIS REPO
 
 ## Papers
 * Total Scientific Research: 5.373
@@ -26,3 +28,9 @@ This repo will contain all the information about coronaviruses, script, paper an
   * Author: Adrian Rosebrock
   * Link & License: https://www.pyimagesearch.com/
  
+# WANTED DATA
+* Genoma sequence
+* Respirator 3D model
+* Research/Scientific Papers
+* Eventually useful software
+* Anything userful to this situation
