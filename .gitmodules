@@ -1,3 +1,8 @@
 [submodule "Data/covid-xchestxray-dataset"]
 	path = Data/covid-xchestxray-dataset
 	url = https://github.com/ieee8023/covid-chestxray-dataset/
+
+
+[submodule "Data/Italy/COVID-19"]
+    path = Data/Italy/COVID-19
+    url = https://github.com/pcm-dpc/COVID-19
