@@ -5,6 +5,11 @@ This repo will contain all the information about coronaviruses, script, paper an
 * covid-xchestxray-dataset
   * Author: Joseph Paul Cohen
   * Link: https://github.com/ieee8023/covid-chestxray-dataset
+  
+ * Italy
+   * COVID-19
+      * Datas regarding Infected, Recovered and Death covering the whole Italian Nation
+      * URL: https://github.com/pcm-dpc/COVID-19
 
 ## Papers
 * Total Scientific Research: 5.373
