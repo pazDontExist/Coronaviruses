@@ -6,3 +6,9 @@
 [submodule "Data/Italy/COVID-19"]
     path = Data/Italy/COVID-19
     url = https://github.com/pcm-dpc/COVID-19
+    
+
+
+[submodule "Software/Python/covid19-normal-approximation"]
+    path = Python/covid19-normal-approximation
+    url = https://github.com/baldimario/covid19-normal-approximation
