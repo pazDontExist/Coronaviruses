@@ -24,6 +24,11 @@ This repo will contain all the information about coronaviruses, script, paper an
 **NOTE 2:** Thanks to jar2 and lulzsec to find the time to find all the papers and put them in 1 place. I had to upload them all on drive because some people felt unconmfortable using the original link.
 ## Software
 ### Python
+* covid19-normal-approximation
+  * Author: Mario Baldi
+  * Link & License: https://github.com/baldimario/covid19-normal-approximation
+
+  
 * detect-covid-xray
   * Author: Adrian Rosebrock
   * Link & License: https://www.pyimagesearch.com/
