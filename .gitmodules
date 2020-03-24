@@ -10,5 +10,5 @@
 
 
 [submodule "Software/Python/covid19-normal-approximation"]
-    path = Python/covid19-normal-approximation
+    path = Software/Python/covid19-normal-approximation
     url = https://github.com/baldimario/covid19-normal-approximation
