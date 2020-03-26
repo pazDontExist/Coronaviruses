@@ -14,6 +14,11 @@ This repo will contain all the information about coronaviruses, script, paper an
 **NOTE 2:** Thanks to jar2 and lulzsec to find the time to find all the papers and put them in 1 place. I had to upload them all on drive because some people felt unconmfortable using the original link.
 
 ## Data
+* Charlotte Valve
+  * Author: isInnova
+  * Link: https://www.isinnova.it/easy-covid19/
+  * 3D Model for Emergency mask for hospital ventilators. Basically a valve to attach to a snorkeling mask
+  
 * covid-xchestxray-dataset
   * Author: Joseph Paul Cohen
   * Link: https://github.com/ieee8023/covid-chestxray-dataset
